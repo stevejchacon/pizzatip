@@ -13,4 +13,4 @@ explain lack in ability to track when the tips were earned
 
 
 Approach to the D3 Visualizations:
-- While performing this analysis, there was effort made to self study a LinkedIn Learning HTML Essential Training course by Jen Simmons. This beginner course was ideal for trying to learn the foundations of HTML which played a key-role in being able to create the layouts for the D3 visualizations
+- While performing this analysis, there was effort made to self study a LinkedIn Learning HTML Essential Training course by Jen Simmons. This beginner course was ideal for trying to learn the foundations of HTML which played a key-role in being able to create the layouts for the D3 visualizations``
