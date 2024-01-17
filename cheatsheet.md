@@ -7,4 +7,4 @@ fetch all remote repos/branches
 git fetch -a
 
 Make new anaconda environment
-conda create --name snakes python=3.9
+conda create --name <env-name-here> python=3.9
