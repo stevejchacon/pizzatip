@@ -8,3 +8,6 @@
 2. After concatinating two (or more) dataframes, be sure to reset the index
 
 3. I wanted to start creating my own modules that would contain functions used throughout some of the Jupyter notebooks. https://www.youtube.com/watch?v=GxCXiSkm6no
+
+4. The zip function. Needed when taking series and converting them to become key/value pairs
+for a python dictionary. https://www.youtube.com/watch?v=qj-V2Ep4coY
