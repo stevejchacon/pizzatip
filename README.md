@@ -55,4 +55,4 @@ influced this project:
 - How did the earning potential change throughtout the course of the pandemic and afterwards?
 - Was the job as lucritive as some delivery drivers felt?
 
-![alt text](demo.jpg)
+![alt text](images/demo.jpg)
