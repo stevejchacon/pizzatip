@@ -3,38 +3,10 @@
 # OUTLINE/DRAFT/NOTES
 
 ## Introduction & Project Motivation
-
-The motivation for this project came from the confusions and skepticism for the 
-anticipated tip earnings a pizza delivery driver would make during a shift. It
-was common and almost guarenteed to hear an inflated estimation of a driver's 
-earnings. After some thought, I realized that there was no way of really knowing
-unless everything was tracked and due to the fact that this was a source of my 
-income, I felt it to be worthwhile for me to do so. I used an app called
-HoursTracker where I was able to log when my shift started, when my shift ended,
-and the amount of money that I earned in tips during the shift. The most beneficial
-feature was the ability to output the file as a .csv in order to be able to run
-an analysis when ready. Some of the initial questions and curiosities were things
-such as: How much does a driver make per hour? How much does a driver make per
-hour on a weekday vs. weekend? Has the increase in menu prices caused an increase
-in tips (especially since the customer could tip based on a percentage)? The data
-was meticulously tracked from August 3, 2020 - June 24, 2023. The delivery charge
-that the customer pay for a delivery was $3 until early July 2021 and raised to $4
-thereafter. 
+The motivation for this project came from the confusions and skepticism about the anticipated tip earnings a pizza delivery driver would make during a shift. It was common and almost guaranteed to hear an inflated estimation of a driver's earnings. After some thought, I realized that there was no way of really knowing unless everything was tracked and due to the fact that this was a source of my income, I felt it to be worthwhile for me to do so. I used an app called HoursTracker where I was able to log when my shift started, when my shift ended, and the amount of money that I earned in tips during the shift. The most beneficial feature of the app was the ability to output the file as a .csv in order to be able to run an analysis when ready. Some of the initial questions and curiosities were things such as: How much does a driver make per hour? How much does a driver make per hour on a weekday vs. weekend? Has the increase in menu prices caused an increase in tips (especially since the customer could tip based on a percentage)? The data was meticulously tracked from August 3, 2020 - June 24, 2023. The delivery charge that the customer pays for a delivery was $3 until early July 2021 where it was raised to $4 thereafter. 
 
 ## Methodology & Reasoning
-The main goal for this project was not only to run the analysis and the gain the 
-proper insights but to also gain as much experience as possible with the various
-tools available for data analysis. The hope was to tackle the same analysis in 
-multiple ways using matplotlib, seaborn, D3, and Tableau, all of which are very
-poplular and powerful within the data analysis space. Not only are these tools and
-frameworks used in both academic and professional environments, but they also vary
-in their complexity and the challenges that they introduce for a user. They all
-have their nuances and are desirabl for different areas of work and research. A
-major **disclaimer** is that some of the visualizations created do not actually 
-drive a lot of insight. There were moments where a specific visualization would 
-not have a lot of impact or provide much meaning but I still found it worthwhile
-to create them anyway just for the sole purpose of learning to create different
-kinds of visualizations.
+The main goal for this project was not only to run the analysis and gain the proper insights, but to also gain as much experience as possible with the various tools available for data analysis. The hope was to tackle the same analysis in multiple ways using matplotlib, seaborn, and Tableau, all of which are very popular and powerful within the data analysis space. Not only are these tools and frameworks used in both academic and professional environments, but they also vary in their complexity and the challenges that they introduce for a user. They all have their nuances and are desirable for different areas of work and research. A major disclaimer is that some of the visualizations created do not actually drive a lot of insight. There were moments where a specific visualization would not have a lot of impact or provide much meaning, but I still found it worthwhile to create them anyway just for the sole purpose of learning to create different kinds of visualizations with different sets of tools.
 
 
 ## Data
@@ -71,19 +43,14 @@ kinds of visualizations.
 <br>
 
 ## Insights
+There were questions that influenced the desire to start tracking the data as well
+as questions that arose over time. Here is a list of a few questions that originally
+influced this project:
 
-- CHALLENGES -> 
-
-
-
-
-A pizza delivery driver kept track of the tips that they earned during their shifts from August 2020 - December 31, 2022. The "HoursTracker" app was used to clock-in/clock-out for each shift works as well as log the tips earned for the shift. Initial curiosity arose from a discussion amongst the delivery drivers who were speculating how much they actually earned. Like any tip-based job, income fluctuates based on the time of day, the day of the week, and occasion. Occassions can be anything from a holiday to a football game. 
-
-
-Questions: Are holidays worth working, did the menu price increase & delivery charge increase affect the tips,
-
-explain lack in ability to track when the tips were earned
-
-
-Approach to the D3 Visualizations:
-- While performing this analysis, there was effort made to self study a LinkedIn Learning HTML Essential Training course by Jen Simmons. This beginner course was ideal for trying to learn the foundations of HTML which played a key-role in being able to create the layouts for the D3 visualizations``
+- How much a delivery driver earning per shift on average?
+- What was the average earning potential for the different days of the week? Which days were the most lucrative? What was the hourly rate average?
+- Where holidays worth working and how did the average earnings compare to non-holidays?
+- Approximately how long was a driver working on a given day of the week?
+- How did the increase in the delivery charge and menu prices affect earnings and averages?
+- How did the earning potential change throughtout the course of the pandemic and afterwards?
+- Was the job as lucritive as some delivery drivers felt?
