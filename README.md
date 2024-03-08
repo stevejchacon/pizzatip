@@ -1,6 +1,9 @@
 # Pizza Delivery Driver Tip Analysis
 
 # OUTLINE/DRAFT/NOTES
+TO DO : remove files I no longer need
+Go over the list of files in the table and update the list
+also remove the files I no longer need and remove them from the list
 
 ## Introduction & Project Motivation
 The motivation for this project came from the confusions and skepticism about the anticipated tip earnings a pizza delivery driver would make during a shift. It was common and almost guaranteed to hear an inflated estimation of a driver's earnings. After some thought, I realized that there was no way of really knowing unless everything was tracked and due to the fact that this was a source of my income, I felt it to be worthwhile for me to do so. I used an app called HoursTracker where I was able to log when my shift started, when my shift ended, and the amount of money that I earned in tips during the shift. The most beneficial feature of the app was the ability to output the file as a .csv in order to be able to run an analysis when ready. Some of the initial questions and curiosities were things such as: How much does a driver make per hour? How much does a driver make per hour on a weekday vs. weekend? Has the increase in menu prices caused an increase in tips (especially since the customer could tip based on a percentage)? The data was meticulously tracked from August 3, 2020 - June 24, 2023. The delivery charge that the customer pays for a delivery was $3 until early July 2021 where it was raised to $4 thereafter. 
@@ -54,3 +57,14 @@ influced this project:
 - How did the increase in the delivery charge and menu prices affect earnings and averages?
 - How did the earning potential change throughtout the course of the pandemic and afterwards?
 - Was the job as lucritive as some delivery drivers felt?
+
+Please note, a much further analysis exists in the Tableau workbook with more extensive charts and graphs. This is small highlight of some highler level insights.
+
+At a very high level, we can see the distribution of earning between the two time period ($3 delivery charge time period vs $4 delivery charge time period). When broken down by year, 2021 was the year with the highest earnings. This makes sense being as the height of the pandemic was during 2021 and a lot of shifts were worked during. 
+
+![total earnings barchart](images/totals.jpg)
+
+When looking at weekday averages, Sunday is by far the most lucritave day to work. This was true during both the $3 and $4 delivery charge time periods. This helps to show that yes, the increase in the delivery charge did help increase earnings per shift by a significant amount.  
+
+![alt text](images/avg_earnings_weekday.jpg)
+![alt text](images/avg_hour_weekday.jpg)
