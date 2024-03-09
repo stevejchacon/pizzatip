@@ -53,13 +53,9 @@ influced this project:
 
 - How much a delivery driver earning per shift on average?
 - What was the average earning potential for the different days of the week? Which days were the most lucrative? What was the hourly rate average?
-
 - How did the increase in the delivery charge and menu prices affect earnings and averages?
-
-
 - Approximately how long was a driver working on a given day of the week?
 - Where holidays worth working and how did the average earnings compare to non-holidays?
-
 - How did the earning potential change throughtout the course of the pandemic and afterwards?
 - Was the job as lucritive as some delivery drivers felt?
 
@@ -78,8 +74,17 @@ The effects of the increase in the delivery charge is displayed conveniently in 
 
 ![alt text](images/weekday_boxplot.jpg)
 
+Shift duration was of interest to see where most of my time was being spent. Due to the pandemic being so lucritive, it makes sense that average shift duration is longer during 2021/2022. It was slightly shocking to see that Summer had the longest average shift duration. Due to how lucritive the holidays can be during the winter, I felt as though I worked more and longer during the Winter months. Thursdays & Sundays having the longest average duration made a lot of sense. On Sunday, I worked the lunch and dinner shift and on Thursday, I was a closing driver.
 
+![alt text](images/avg_duration_year_season.jpg)
+![alt text](images/avg_duration_month_day.jpg)
 
+Something that I was wondering during the course of the time spent as a pizza driver was how lucritive holiday were. It was evident that tips were better on a holiday (most of the time), but it was hard to guage by how much exactly. Overall average earnings per shift are significantly higher but that is largely due to a longer average shift duration on a holiday (True) vs when it isn't a holiday (False). Due to some big tippers, the holidays felt more lucritive than ~$30/hr. This raises the question of whether or not they are worth working. With only a $5 increase per hour, it's debatably not that worth and time is better spent with family. 
 
+![alt text](images/holiday_avgs.jpg)
 
+When looking at the quarterly earnings over the timeframe of this dataset, the effect that the pandemic had on earnings can be better understood. There is a drastic increase in average earnings per shift during one of the peak moments of the global crisis. From 2023 (quarter 3 & 4) and early 2022 (quarter 1 & 2), quarterly tip averages were the highest of any other time period in this dataset. Especially when it is combined with the menu price increase, it helps to push those numbers up a little more.
 
+![alt text](images/qtr_avg.jpg)
+
+Was the job as lucritive as people thought? Although the job is a lucritive delivery driver job, it does seem to be slightly less enticing as what people made it out to be. From what I remember, the interpretation one had of their earnings was slightly inflated due to their memeory retaining the successful nights they had and conveniently discarding the shifts that were mediocre or below par. Nonetheless, the job is still worth it so long as your car is fuel efficient. Otherwise, it debatable.
