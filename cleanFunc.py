@@ -1,3 +1,9 @@
+''' 
+This script will take the raw CSV file exported from the HoursTracker app and 
+perform both cleaning and modification. More cleaning and modification are done
+in the pizzaCleaning.ipynb Jupyter notebook.
+'''
+
 import calendar
 import pandas as pd
 
