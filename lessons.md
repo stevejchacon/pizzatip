@@ -1,5 +1,5 @@
 # Lessons Learned
-### This is a list of items that took more time than necessary due to unexpected bugs
+This list compiles items that required more time than anticipated due to unexpected bugs, issues, or confusions. I've documented these instances not only as a personal reference but also to illustrate the minor challenges encountered throughout the project. It includes seemingly simple obstacles that proved to be stumbling blocks, serving as a record of these experiences.
 
 # SPELL CHECK THIS DOCUMENT
 
@@ -9,5 +9,15 @@
 
 3. I wanted to start creating my own modules that would contain functions used throughout some of the Jupyter notebooks. https://www.youtube.com/watch?v=GxCXiSkm6no
 
-4. The zip function. Needed when taking series and converting them to become key/value pairs
-for a python dictionary. https://www.youtube.com/watch?v=qj-V2Ep4coY
+4. **The zip function**. This was needed when taking multiple series and converting them to become key/value pairs for a python dictionary. https://www.youtube.com/watch?v=qj-V2Ep4coY
+
+## Things that I would look up...again...
+
+When creating a new branch, it won't show up for others unless:
+*git push origin <new-branch-name>*
+
+fetch all remote repos/branches:
+*git fetch -a*
+
+Make new anaconda environment:
+*conda create --name <env-name-here> python=3.9*
