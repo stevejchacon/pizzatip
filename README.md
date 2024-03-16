@@ -1,5 +1,7 @@
 # Pizza Delivery Driver Tip Analysis
 
+## Please refer to the pdf file titled *pizza_tip_report.pdf* for the full in-depth analysis of this project. Everything below is a smaller and more condensed version of this project.
+
 ## Introduction & Project Motivation
 The motivation for this project came from the confusions and skepticism about the anticipated tip earnings a pizza delivery driver would make during a shift. It was common and almost guaranteed to hear an inflated estimation of a driver's earnings. After some thought, I realized that there was no way of really knowing unless everything was tracked and due to the fact that this was a source of my income, I felt it to be worthwhile for me to do so. I used an app called HoursTracker where I was able to log when my shift started, when my shift ended, and the amount of money that I earned in tips during the shift. The most beneficial feature of the app was the ability to output the file as a .csv in order to be able to run an analysis when ready. Some of the initial questions and curiosities were things such as: How much does a driver make per hour? How much does a driver make per hour on a weekday vs. weekend? Has the increase in menu prices caused an increase in tips (especially since the customer could tip based on a percentage)? The data was meticulously tracked from August 3, 2020 - June 24, 2023. The delivery charge that the customer pays for a delivery was $3 until early July 2021 where it was raised to $4 thereafter. 
 
@@ -43,7 +45,9 @@ The same analysis was repeated three (3) times. The reason for this was to see h
 | reference.ipynb     | References & examples of code found in documentation|
 <br>
 
-## Insights
+## Insights (condensed version)
+### Please refer to the pdf file titled *pizza_tip_report.pdf* for the full in-depth analysis of this project. Everything below is a smaller and more condensed version of this project.
+
 There were questions that influenced the desire to start tracking the data as well as questions that arose over time. Here is a list of a few questions that originally influenced this project:
 
 - How much does a delivery driver earn per shift on average?
@@ -83,5 +87,3 @@ When looking at the quarterly earnings over the timeframe of this dataset, the e
 ![alt text](images/qtr_avg.jpg)
 
 Was the job as lucrative as people thought? Although the job is a great delivery driver job, it does seem to be slightly less profitable than what people made it out to be. From what I remember, the interpretation one had of their earnings was slightly inflated due to their memory retaining the successful nights they had and conveniently discarding the shifts that were mediocre or below par. Nonetheless, the job is still worth it so long as your car is fuel efficient. Otherwise, it's debatable.
-
-The deeper, more in-depth analysis exists in the file *pizza_tip.twb*. Please refer to that file to get a more intimiate understanding of this study. If you do not have a version of Tableau on your computer, I have also included a PowerPoint version title *pizza_tip.pptx*.
