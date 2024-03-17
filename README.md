@@ -1,6 +1,6 @@
 # Pizza Delivery Driver Tip Analysis
 
-## Please refer to the pdf file titled *pizza_tip_report.pdf* for the full in-depth analysis of this project. Everything below is a smaller and more condensed version of this project.
+## Please refer to the pdf file titled *pizza_tip_report* for the full in-depth analysis of this project. Everything below is a smaller and more condensed version of this project. This is a folder that contains a jpeg image of each page. The pdf format resulted in too low of a resolution to see images clearly.
 
 ## Introduction & Project Motivation
 The motivation for this project came from the confusions and skepticism about the anticipated tip earnings a pizza delivery driver would make during a shift. It was common and almost guaranteed to hear an inflated estimation of a driver's earnings. After some thought, I realized that there was no way of really knowing unless everything was tracked and due to the fact that this was a source of my income, I felt it to be worthwhile for me to do so. I used an app called HoursTracker where I was able to log when my shift started, when my shift ended, and the amount of money that I earned in tips during the shift. The most beneficial feature of the app was the ability to output the file as a .csv in order to be able to run an analysis when ready. Some of the initial questions and curiosities were things such as: How much does a driver make per hour? How much does a driver make per hour on a weekday vs. weekend? Has the increase in menu prices caused an increase in tips (especially since the customer could tip based on a percentage)? The data was meticulously tracked from August 3, 2020 - June 24, 2023. The delivery charge that the customer pays for a delivery was $3 until early July 2021 where it was raised to $4 thereafter. 
@@ -37,7 +37,7 @@ The same analysis was repeated three (3) times. The reason for this was to see h
 | cleanFunc.py        | Functions used during the data cleaning stage       |
 | lessons.md          | Lessons learned while doing the project             |
 | pizza_tip.twb       | Tableau workbook with more extensive analysis       |
-| pizza_tip_report.pdf      | Full and complete report of the project         |
+| pizza_tip_report      | Full and complete report of the project (folder)        |
 | pizzaCleaning.ipynb | Jupyter Notebook used for cleaning the data         |
 | pizzaEDA1_matplotlib.ipynb      | EDA using matplotlib #1                 |
 | pizzaEDA2_seaborn.ipynb     | EDA using matplotlib #2                     |
@@ -46,7 +46,7 @@ The same analysis was repeated three (3) times. The reason for this was to see h
 <br>
 
 ## Insights (condensed version)
-### Please refer to the pdf file titled *pizza_tip_report.pdf* for the full in-depth analysis of this project. Everything below is a smaller and more condensed version of this project.
+### Please refer to the pdf file titled *pizza_tip_report* for the full in-depth analysis of this project. Everything below is a smaller and more condensed version of this project. This is a folder that contains a jpeg image of each page. The pdf format resulted in too low of a resolution to see images clearly.
 
 There were questions that influenced the desire to start tracking the data as well as questions that arose over time. Here is a list of a few questions that originally influenced this project:
 
