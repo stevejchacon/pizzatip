@@ -21,3 +21,5 @@ fetch all remote repos/branches:
 
 Make new anaconda environment:
 *conda create --name <env-name-here> python=3.9*
+
+test for git changes?

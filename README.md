@@ -87,3 +87,4 @@ When looking at the quarterly earnings over the timeframe of this dataset, the e
 ![alt text](images/qtr_avg.jpg)
 
 Was the job as lucrative as people thought? Although the job is a great delivery driver job, it does seem to be slightly less profitable than what people made it out to be. From what I remember, the interpretation one had of their earnings was slightly inflated due to their memory retaining the successful nights they had and conveniently discarding the shifts that were mediocre or below par. Nonetheless, the job is still worth it so long as your car is fuel efficient. Otherwise, it's debatable.
+
